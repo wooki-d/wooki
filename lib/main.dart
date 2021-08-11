@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           TypewriterAnimatedText('안녕하세요.\n김시욱의 포트폴리오입니다.'),
                         ],
                         onTap: () {
-                          print("Tap Event1234");
+                          print("Tap Event12345");
                         },
                       ),
                     ),
